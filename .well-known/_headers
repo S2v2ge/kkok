@@ -1,0 +1,4 @@
+fetch('https://eratouch.com', {
+  mode: 'cors',
+  credentials: 'include'
+})
