@@ -1,4 +1,2 @@
-fetch('https://eratouch.com', {
-  mode: 'cors',
-  credentials: 'include'
-})
+/*
+  Access-Control-Allow-Origin:https://www.eratouch.com
