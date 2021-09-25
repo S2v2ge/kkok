@@ -3,7 +3,7 @@ var server = new StellarSdk.Server("https://horizon-testnet.stellar.org");
 
 // Keys for issuing account
 var issuingKeys = StellarSdk.Keypair.fromSecret(
-"SA3ZX4B54TTYBVV5QK53NEOMUH6HYLQBGCH3QQF4O4JL6MWQDWXGFCII",
+"SA2ZJL5VWOE6RG7KFXD5VVXP3V4YFG5NPMGKXFV7FTDRM6QB66DJ3RCI",
 );
 
 server
