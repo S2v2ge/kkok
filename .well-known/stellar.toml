@@ -25,12 +25,6 @@ name="sword&shield"
 desc="The Sword and Shield token was created by the Era Touch development team. We have launched our own direction in the crypto industry to promote historical reports, etc . We support and sponsor all archaeological discoveries . We also sponsor the restoration of museums and galleries, create auctions to support the sick, orphans and people who have fallen into the most difficult life situations, by buying our coins, you will not only earn money, but also leave a mark on this planet"
 conditions="There will be 1000000000 now and forever"
 image="https://ibb.co/LhSr58V"
-[[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
-
 # sword&shield (SWORD&Shield) Token was issued using the open and inclusive Stellar blockchain network.
 # Home Domain: eratouch.com
 # Sword&Shield Token
