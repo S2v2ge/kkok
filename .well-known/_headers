@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/stellar.toml"
   status = 200
   
 [[headers]]
